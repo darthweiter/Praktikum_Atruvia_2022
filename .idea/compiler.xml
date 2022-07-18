@@ -6,9 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="A_Tobias_Kaufmann" />
+        <module name="P_Lara" />
+        <module name="P_Anton" />
+        <module name="P_Justus" />
+        <module name="P_Felix" />
+        <module name="P_Philipp" />
+        <module name="P_Richard" />
+        <module name="P_Julian" />
+        <module name="P_Lenny" />
+        <module name="P_Nikolas" />
         <module name="M_Hello_World" />
-        <module name="P_Tovias_Kaufmann" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P_Tobias_Kaufmann" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
