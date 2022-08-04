@@ -14,4 +14,3 @@ public class Uebung2 {
         System.out.println(sum);
     }
 }
-

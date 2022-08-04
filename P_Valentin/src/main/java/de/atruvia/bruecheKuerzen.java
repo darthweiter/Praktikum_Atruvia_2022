@@ -8,4 +8,3 @@ public class bruecheKuerzen {
         System.out.println(scanner1.nextInt());
     }
 }
-
