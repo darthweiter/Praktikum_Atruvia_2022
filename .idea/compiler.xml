@@ -7,15 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="A_Tobias_Kaufmann" />
-        <module name="P_Lara" />
         <module name="P_Anton" />
         <module name="P_Justus" />
-        <module name="P_Felix" />
         <module name="P_Philipp" />
         <module name="P_Richard" />
+        <module name="P_Nikolas" />
+        <module name="P_Lara" />
+        <module name="P_Patrick" />
+        <module name="P_Tovias_Kaufmann" />
+        <module name="P_Felix" />
+        <module name="P_Valentin" />
+        <module name="P_Leonard" />
         <module name="P_Julian" />
         <module name="P_Lenny" />
-        <module name="P_Nikolas" />
         <module name="M_Hello_World" />
       </profile>
     </annotationProcessing>
