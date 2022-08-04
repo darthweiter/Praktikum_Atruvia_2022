@@ -33,7 +33,7 @@ public class Rezeptideen_Schwer {
                 rezeptInfo = getRecipesByIngredient(meinScanner.next());
                 System.out.println(rezeptInfo.substring(rezeptInfo.indexOf("title")+8,rezeptInfo.indexOf('"',rezeptInfo.indexOf("title")+8)));
                 System.out.println("Willst du zu diesem Rezept die Anleitung oder willst du ein anderes Rezept?");
-                System.out.println("Gib 1 für die Anleitung zu diesem Rezept ein oder 2 für ein neues Rezept.");
+                System.out.println("Gib 1 für die Anleitung zu diesem Rezept ein oder 2 für ein neues Rezept.");System.out.println("Gib 1 für die Anleitung zu diesem Rezept ein oder 2 für ein neues Rezept.");
             }while (meinScanner.nextInt() == 2);
             rezeptInfo = getRecipeById(rezeptInfo.substring(rezeptInfo.indexOf(':')+1,rezeptInfo.indexOf(',')));
             System.out.println(formatInstrucitons(rezeptInfo));
