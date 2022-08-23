@@ -10,19 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>M_Hello_World</module>
-        <module>A_Tobias_Kaufmann</module>
-        <module>P_Richard</module>
-        <module>P_Justus</module>
-        <module>P_Lara</module>
-        <module>P_Felix</module>
-        <module>P_Nikolas</module>
-        <module>P_Anton</module>
-        <module>P_Philipp</module>
-        <module>P_Julian</module>
-        <module>P_Lenny</module>
-        <module>P_Patrick</module>
-        <module>P_Leonard</module>
-        <module>P_Valentin</module>
+        <module>Praktikum</module>
     </modules>
 
     <properties>
